@@ -7,8 +7,8 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #0f0f0f;
-  color: #f0f0f0;
+  background-color: #0a0f2c;
+  color: #f5d98b;
   line-height: 1.8;
 }
 
@@ -21,27 +21,28 @@ header {
   align-items: center;
   text-align: center;
   padding: 2rem;
-  background: linear-gradient(135deg, #0f0f0f, #1a1a2e);
+  background: linear-gradient(135deg, #0a0f2c, #0d1b4b);
 }
 
 header h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
+  color: #f5d98b;
 }
 
 header h1 span {
-  color: #e94560;
+  color: #f0a500;
 }
 
 header p {
   font-size: 1.2rem;
-  color: #aaaaaa;
+  color: #c9b67a;
   margin-bottom: 2rem;
 }
 
 header a {
-  background-color: #e94560;
-  color: white;
+  background-color: #f0a500;
+  color: #0a0f2c;
   padding: 0.8rem 2rem;
   border-radius: 30px;
   text-decoration: none;
@@ -51,6 +52,7 @@ header a {
 
 header a:hover {
   transform: scale(1.05);
+  background-color: #f5d98b;
 }
 
 /* ========== SECTIONS ========== */
@@ -63,13 +65,13 @@ section {
 section h2 {
   font-size: 2rem;
   margin-bottom: 1.5rem;
-  color: #e94560;
-  border-bottom: 2px solid #e94560;
+  color: #f0a500;
+  border-bottom: 2px solid #f0a500;
   padding-bottom: 0.5rem;
 }
 
 section p {
-  color: #cccccc;
+  color: #f5d98b;
   font-size: 1.1rem;
 }
 
@@ -82,9 +84,9 @@ section p {
 }
 
 #competences li {
-  background-color: #1a1a2e;
-  border: 1px solid #e94560;
-  color: #e94560;
+  background-color: #0d1b4b;
+  border: 1px solid #f0a500;
+  color: #f0a500;
   padding: 0.5rem 1.5rem;
   border-radius: 20px;
   font-weight: bold;
@@ -94,6 +96,6 @@ section p {
 footer {
   text-align: center;
   padding: 2rem;
-  color: #555555;
+  color: #c9b67a;
   font-size: 0.9rem;
 }
