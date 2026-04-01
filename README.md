@@ -6,9 +6,9 @@ Bienvenue sur mon portfolio de développeuse Full Stack en formation !
 
 ## 🌱 Mon parcours
 
-Après 8 ans dans l'administratif et 6 ans comme conductrice de bus,
+Après 8 années d'expérience dans l'administratif et 6 ans en tant que conductrice de bus,
 j'ai choisi de me reconvertir dans le développement web.
-Ce qui me passionne : créer des choses utiles, belles, et qui
+Ce qui me passionne : créer des choses utiles pour tous, modernes mais simple, et qui
 résolvent de vrais problèmes du quotidien.
 
 ---
