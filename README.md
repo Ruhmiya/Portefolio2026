@@ -7,7 +7,7 @@ Bienvenue sur mon portfolio de développeuse Full Stack en formation !
 ## 🌱 Mon parcours
 
 Après 8 années d'expérience dans l'administratif et 6 ans en tant que conductrice de bus,
-j'ai choisi de me reconvertir dans le développement web.
+j'ai choisi de me reconvertir dans le numérique vers le métier d'UI/UX Designer.
 Ce qui me passionne : créer des choses utiles pour tous, modernes mais simple, et qui
 résolvent de vrais problèmes du quotidien.
 
